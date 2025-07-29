@@ -1,0 +1,701 @@
+{
+  "blocks": [
+    {
+      "x": -2,
+      "y": 0,
+      "z": -3,
+      "type": "half",
+      "orientation": "north",
+      "materials": [
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        }
+      ],
+      "color": "8888ff"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -3,
+      "type": "half",
+      "orientation": "north",
+      "materials": [
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        }
+      ],
+      "color": "8888ff"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -3,
+      "type": "half",
+      "orientation": "north",
+      "materials": [
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        }
+      ],
+      "color": "8888ff"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -3,
+      "type": "half",
+      "orientation": "north",
+      "materials": [
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        }
+      ],
+      "color": "8888ff"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -3,
+      "type": "half",
+      "orientation": "north",
+      "materials": [
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        }
+      ],
+      "color": "8888ff"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -2,
+      "type": "half",
+      "orientation": "north",
+      "materials": [
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        }
+      ],
+      "color": "8888ff"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 0,
+      "type": "half",
+      "orientation": "north",
+      "materials": [
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        }
+      ],
+      "color": "8888ff"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -1,
+      "type": "half",
+      "orientation": "north",
+      "materials": [
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        }
+      ],
+      "color": "8888ff"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 1,
+      "type": "half",
+      "orientation": "north",
+      "materials": [
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        }
+      ],
+      "color": "8888ff"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 2,
+      "type": "half",
+      "orientation": "north",
+      "materials": [
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        }
+      ],
+      "color": "8888ff"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 2,
+      "type": "half",
+      "orientation": "north",
+      "materials": [
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        }
+      ],
+      "color": "8888ff"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 2,
+      "type": "half",
+      "orientation": "north",
+      "materials": [
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        }
+      ],
+      "color": "8888ff"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 2,
+      "type": "half",
+      "orientation": "north",
+      "materials": [
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        }
+      ],
+      "color": "8888ff"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 2,
+      "type": "half",
+      "orientation": "north",
+      "materials": [
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        }
+      ],
+      "color": "8888ff"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 2,
+      "type": "half",
+      "orientation": "north",
+      "materials": [
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        }
+      ],
+      "color": "8888ff"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 0,
+      "type": "half",
+      "orientation": "north",
+      "materials": [
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        }
+      ],
+      "color": "8888ff"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 1,
+      "type": "half",
+      "orientation": "north",
+      "materials": [
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        }
+      ],
+      "color": "8888ff"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -2,
+      "type": "half",
+      "orientation": "north",
+      "materials": [
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        }
+      ],
+      "color": "8888ff"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -1,
+      "type": "half",
+      "orientation": "north",
+      "materials": [
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        }
+      ],
+      "color": "8888ff"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -3,
+      "type": "half",
+      "orientation": "north",
+      "materials": [
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        },
+        {
+          "color": "8888ff",
+          "textureUrl": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+        }
+      ],
+      "color": "8888ff"
+    }
+  ],
+  "assets": [],
+  "assetLibrary": [],
+  "ground": {
+    "defaultTextureUrl": null,
+    "cells": []
+  },
+  "background": null,
+  "worldSettings": {
+    "width": 32,
+    "height": 32
+  },
+  "textures": [
+    {
+      "url": "https://api.websim.com/blobs/0198585d-9a51-72db-8cd8-2fea2c41d1fc.png",
+      "name": "0198585d-9a51-72db-8cd8-2fea2c41d1fc.png"
+    }
+  ]
+}
